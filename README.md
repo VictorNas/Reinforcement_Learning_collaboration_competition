@@ -41,4 +41,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Instructions
 
 Follow the code in `Tennis_Training.ipynb` to train the agent to solve the enviroment!
+
 The report with the algorithm used and the hyperparameters choosen can be seen at `Report.ipynb`
+
+`maddpg_agent.py` contains the code of the agent and `model.py` contains the code of the Networks.
